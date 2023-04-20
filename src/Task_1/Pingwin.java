@@ -13,7 +13,7 @@ public class Pingwin extends Animal implements Swimable, Runable {
 
     @Override
     public String voice() {
-        return "Издает звук: Кря, но по пингвиньи)";
+        return "Кричит: писк пингвинячий)";
     }
 
     @Override

@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44491dbf-28ec-4d84-b769-cfb49810346f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1/Duck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_1/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1/Pingwin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1/Pingwin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_1/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1/Radio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "create.test.in.the.same.root": "true",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>

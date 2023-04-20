@@ -16,7 +16,7 @@ public class Cat extends Animal implements Runable {
 
     @Override
     public String toString() {
-        return "Кошка " + super.toString();
+        return "Котёнок " + super.toString();
     }
 
     @Override

@@ -8,7 +8,7 @@ public class Horse extends Animal implements Runable {
 
     @Override
     public String voice() {
-        return "Издает звук: И-ГО-ГО";
+        return "ИГОГОЧЕТ: И-ГО-ГО";
     }
 
     @Override

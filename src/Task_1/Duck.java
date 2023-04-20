@@ -13,7 +13,7 @@ public class Duck extends Animal implements Runable, Flyable, Swimable {
 
     @Override
     public String voice() {
-        return "Издает звук: Кря - Кря";
+        return "Крякает: Кря - Кря";
     }
 
     @Override
